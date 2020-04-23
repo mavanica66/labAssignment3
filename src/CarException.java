@@ -1,9 +1,6 @@
 import java.io.*;
 
 /*
-  Marco Vargas
-  CSC-162
-  Prof: Vickram Sawh
   Lab Assignment 3
   Date: 4/22/2020
 
